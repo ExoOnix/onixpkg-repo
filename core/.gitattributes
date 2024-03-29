@@ -1,0 +1,2 @@
+glibc.opm filter=lfs diff=lfs merge=lfs -text
+gcc.opm filter=lfs diff=lfs merge=lfs -text
